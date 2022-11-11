@@ -41,6 +41,7 @@ class Automobile(Vehicle):
 #creates instance
 list1 = Automobile('n','n','n','n','n')
 print(5*"\n")
+#user inputs
 Automobile.getType(list1)
 Automobile.getYear(list1)
 Automobile.getDoors(list1)
